@@ -64,7 +64,6 @@ The app will be available at [http://localhost:3000](http://localhost:3000).
 
 ## **Deployment**
 
-The project is deployed at: **[Deployed App URL](#)**  
-You can also find the source code on GitHub: **[GitHub Repository](#)**
+The project is deployed at: **[[Deployed App URL](#)](https://event-calendar-orpin.vercel.app/)**  
 
 ---

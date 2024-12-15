@@ -38,15 +38,6 @@ The project is deployed at: **https://event-calendar-orpin.vercel.app/**
 
 ---
 
-## **Tech Stack**
-
-- **Frontend**: React.js with functional components and hooks.
-- **UI Library**: [shadcn](https://shadcn.dev)
-- **Data Persistence**: localStorage/in-memory store.
-- **Deployment**: Vercel/Netlify.
-
----
-
 ## **Getting Started**
 
 ### **1. Clone the Repository**

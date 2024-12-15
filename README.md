@@ -6,6 +6,12 @@ This project is a **Dynamic Event Calendar Application** built using **React.js*
 
 ---
 
+## **Deployment**
+
+The project is deployed at: **https://event-calendar-orpin.vercel.app/**  
+
+---
+
 ## **Features**
 
 ### **Core Features**
@@ -59,11 +65,5 @@ npm install
 npm start
 ```
 The app will be available at [http://localhost:3000](http://localhost:3000).
-
----
-
-## **Deployment**
-
-The project is deployed at: **[[Deployed App URL](#)](https://event-calendar-orpin.vercel.app/)**  
 
 ---

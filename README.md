@@ -8,7 +8,7 @@ This project is a **Dynamic Event Calendar Application** built using **React.js*
 
 ## **Deployment**
 
-The project is deployed at: **https://event-calendar-orpin.vercel.app/**  
+The project is deployed at: **https://event-calendar-omega-puce.vercel.app/**  
 
 ---
 
